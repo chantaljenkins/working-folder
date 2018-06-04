@@ -1,0 +1,55 @@
+.row1 {
+  height: 150px;
+  width: 150px;
+  background: red;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;  
+} 
+
+.row2 {
+  height: 150px;
+  width: 150px;
+  background: red;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;  
+}
+
+.main {
+  position: relative;
+  /*width: 150px;*/
+  height: 150px;
+  clear: both;
+  
+}
+.row3 {
+  height: 150px;
+  width: 150px;
+  background: red;
+  position: absolute;
+   margin-right: 20px;
+  margin-bottom: 20px;  
+}   
+
+.row32 {
+  height: 150px;
+  width: 150px;
+  background: red;
+  position: absolute;
+  top: 0;
+  left: 170px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}   
+
+.row33 {
+  height: 150px;
+  width: 150px;
+  background: red;
+  position: absolute;
+  top: 0;
+  left: 340px;
+  margin-right: 20px;
+  margin-bottom: 20px;  
+}   
