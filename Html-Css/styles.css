@@ -1,0 +1,40 @@
+#main-heading {
+  text-align: center;
+}
+
+#main-heading h2 {
+  margin-bottom: 5px;
+}
+
+#main-heading p {
+  margin: 0px;
+}
+
+.section, .position-highlights, .interests {
+  margin-left: 10px;
+}
+
+/*.position-highlights-title {
+  margin-bottom: -15px;
+}*/
+
+.position-highlights ul {
+  margin-top: 0px;
+}
+.job {
+  padding: 10px;
+}
+
+.job-position, .education-name {
+  font-weight: bold;
+}
+
+.education {
+  padding: 10px;
+}
+
+
+
+
+
+
